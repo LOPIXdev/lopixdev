@@ -2,13 +2,13 @@
 
 <div align="center">
 
-## Hey 👋
+### Hey 👋
 
-P1 - P2 - P3: Buraya kendini tanıtan giriş metnini yazabilirsin. Sağdaki GIF kendi alanını korurken bu metinler sol taraftaki geniş alanda ortalı şekilde duracak.
+P1 - P2 - P3: test test test test test test test test test test test test test test test test test test test test test 
 
-P4: Üzerinde çalıştığın projeler veya odaklandığın teknolojiler.
+P4: test test test test test 
 
-P5 - P6: Kısa bir kapanış notu.
+P5 - P6: test
 
 </div>
 
