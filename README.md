@@ -1,16 +1,18 @@
-<table>
-  <tr>
-    <td width="250" valign="top">
-      <img width="240" height="356" alt="FINAL-GIF-clean" src="https://github.com/user-attachments/assets/47db970a-7f71-47c9-9426-53cd6351a4d9" />
-    </td>
-    <td width="600" valign="top" align="center">
-      <h2>Hey 👋</h2>
-      <p>P1 - P2 - P3: test 1  test 1  test 1  test 1  test 1  test 1  test 1  test 1  test 1  test 1  test 1  test 1  test 1  </p>
-      <p>P4: test 2 test 2 test 2 test 2 test 2 test 2 test 2 </p>
-      <p>P5 - P6: test3 </p>
-    </td>
-  </tr>
-</table>
+<img align="right" width="240" height="356" alt="FINAL-GIF-clean" src="https://github.com/user-attachments/assets/47db970a-7f71-47c9-9426-53cd6351a4d9" />
+
+<div align="center">
+
+## Hey 👋
+
+P1 - P2 - P3: Buraya kendini tanıtan giriş metnini yazabilirsin. Sağdaki GIF kendi alanını korurken bu metinler sol taraftaki geniş alanda ortalı şekilde duracak.
+
+P4: Üzerinde çalıştığın projeler veya odaklandığın teknolojiler.
+
+P5 - P6: Kısa bir kapanış notu.
+
+</div>
+
+<br clear="right"/>
 
 <!--
 **LOPIXdev/lopixdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
